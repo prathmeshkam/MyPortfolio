@@ -6,9 +6,7 @@ function Type() {
         Typewriter options = {
             {
                 strings: [
-                    "Software Developer",
-                    "Java Developer",
-                    "Full Stack developer"
+                    "Software Developer at TCS",
                 ],
                 autoStart: true,
                 loop: true,
